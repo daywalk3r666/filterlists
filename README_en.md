@@ -12,12 +12,12 @@ A self created hosts file for AdAway. Based on StevenBlack Unified Hosts with Fa
 * [anudeepND Blacklist](https://github.com/anudeepND/blacklist)
 
 * Custom blacklist with the following domains :
-cdn.luckyorange.com
-samsung-com.112.2o7.net
-analytics.oneplus.cn
-browser.sentry-cdn.com
-w1.luckyorange.com
-ads.facebook.com
+<p>cdn.luckyorange.com <br>
+samsung-com.112.2o7.net <br>
+analytics.oneplus.cn <br>
+browser.sentry-cdn.com <br>
+w1.luckyorange.com <br>
+ads.facebook.com</p>
 
 ## Licenses
 
