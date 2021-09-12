@@ -11,7 +11,7 @@ Eine selbsterstelllte hosts Datei für AdAway. Basierend auf StevenBlack Unified
 * [AdguardTracking](https://github.com/r-a-y/mobile-hosts)
 * [anudeepND Blacklist](https://github.com/anudeepND/blacklist)
 
-## Benutzerdefinierte Blacklist mit den folgenden Domains :
+### Benutzerdefinierte Blacklist mit den folgenden Domains :
 * cdn.luckyorange.com
 * samsung-com.112.2o7.net
 * analytics.oneplus.cn
