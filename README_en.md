@@ -10,14 +10,13 @@ A self created hosts file for AdAway. Based on StevenBlack Unified Hosts with Fa
 * [AdguardMobileSpyware](https://github.com/r-a-y/mobile-hosts)
 * [AdguardTracking](https://github.com/r-a-y/mobile-hosts)
 * [anudeepND Blacklist](https://github.com/anudeepND/blacklist)
-
-### Custom blacklist with the following domains :
-* cdn.luckyorange.com
-* samsung-com.112.2o7.net
-* analytics.oneplus.cn
-* browser.sentry-cdn.com
-* w1.luckyorange.com
-* ads.facebook.com
+* Custom blacklist with the following domains :
+  * cdn.luckyorange.com
+  * samsung-com.112.2o7.net
+  * analytics.oneplus.cn
+  * browser.sentry-cdn.com
+  * w1.luckyorange.com
+  * ads.facebook.com
 
 ## Licenses
 
