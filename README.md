@@ -10,6 +10,7 @@ Eine selbsterstelllte hosts Datei für AdAway. Basierend auf StevenBlack Unified
 * [AdguardMobileSpyware](https://github.com/r-a-y/mobile-hosts)
 * [AdguardTracking](https://github.com/r-a-y/mobile-hosts)
 * [anudeepND Blacklist](https://github.com/anudeepND/blacklist)
+* [orca.pet](https://orca.pet/notonmyshift/)
 * Benutzerdefinierte Blacklist mit den folgenden Domains :
   * cdn.luckyorange.com
   * samsung-com.112.2o7.net
