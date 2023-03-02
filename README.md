@@ -1,7 +1,7 @@
 ## Readme
 [Deutsch] [Englisch](https://github.com/daywalk3r666/filterlists/blob/master/README_en.md)
 
-![Hosts](https://img.shields.io/badge/Hosts-280k-red) [![GitHub issues](https://img.shields.io/github/issues/daywalk3r666/filterlists)](https://github.com/daywalk3r666/filterlists/issues) ![Updates](https://img.shields.io/badge/Update-daily-blue)[![Download](https://img.shields.io/badge/Filterlist-Link-yellow)](https://raw.githubusercontent.com/daywalk3r666/filterlists/master/hosts)
+![Hosts](https://img.shields.io/badge/Hosts-290k-red) [![GitHub issues](https://img.shields.io/github/issues/daywalk3r666/filterlists)](https://github.com/daywalk3r666/filterlists/issues) ![Updates](https://img.shields.io/badge/Update-daily-blue)[![Download](https://img.shields.io/badge/Filterlist-Link-yellow)](https://raw.githubusercontent.com/daywalk3r666/filterlists/master/hosts)
 
 Eine selbsterstelllte hosts Datei für AdAway. Basierend auf StevenBlack Unified Hosts mit Fakenews und Gambling erweitert mit folgenden Quellen:
 
