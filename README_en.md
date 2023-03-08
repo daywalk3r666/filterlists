@@ -18,6 +18,10 @@ A self created hosts file for AdAway. Based on StevenBlack Unified Hosts with Fa
   * browser.sentry-cdn.com
   * w1.luckyorange.com
   * ads.facebook.com
+  * advertising.apple.com
+  * bdapi-ads.realmemobile.com
+  * bdapi-in-ads.realmemobile.com
+  * advertising-api-eu.amazon.com
 
 ## Licenses
 
