@@ -11,7 +11,9 @@ Eine selbsterstelllte hosts Datei für AdAway. Basierend auf StevenBlack Unified
 * [AdguardTracking](https://github.com/r-a-y/mobile-hosts)
 * [anudeepND Blacklist](https://github.com/anudeepND/blacklist)
 * [orca.pet](https://orca.pet/notonmyshift/)
-* Benutzerdefinierte Blacklist mit den folgenden Domains :
+ <details>
+ <summary>Benutzerdefinierte Blacklist mit den folgenden Domains :</summary>
+
   * cdn.luckyorange.com
   * samsung-com.112.2o7.net
   * analytics.oneplus.cn
@@ -22,6 +24,19 @@ Eine selbsterstelllte hosts Datei für AdAway. Basierend auf StevenBlack Unified
   * bdapi-ads.realmemobile.com
   * bdapi-in-ads.realmemobile.com
   * advertising-api-eu.amazon.com
+  * analyticsengine.s3.amazonaws.com
+  * cdn-test.mouseflow.com
+  * tools.mouseflow.com
+  * api.mouseflow.com
+  * realtime.luckyorange.com
+  * api.luckyorange.com
+  * events.hotjar.io
+  * fwtracks.freshmarketer.com
+  * claritybt.freshmarketer.com
+  * app.bugsnag.com
+  * api.bugsnag.com
+  * adtech.yahooinc.com
+ </details>
 
 ## Licenses
 
