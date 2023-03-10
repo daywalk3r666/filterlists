@@ -1,2 +1,5 @@
 ||disqus.com^$important
 apkmirror.com###disqus_thread
+
+google.*### lb
+google.*##html:style(overflow:auto !important)
